@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Square_root__TARgv20_
 {
-    class Program
+    public class Program
     {
         static void Main()
         {
